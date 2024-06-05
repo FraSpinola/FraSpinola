@@ -15,11 +15,12 @@ Database: SQL, MySQL
 Version control: Git
 Design: Tailwind CSS
 API : RESTful APIs
+OS: Linux, Windows
+others: Familiar with the most common Networking protocols and concepts
 
 💻 Current position:
 
-🌟 Junior Web Developer @ 3FBL, Rome 
-Tech stack: Angular, Laravel
+🌟 IT Consultant @ Stone Security, Rome 
 Maintenance and development of cool products
 
 🏋️ Sports and Hobbies:
@@ -31,5 +32,4 @@ Bookworm in personal growth and personal finance
 🚀 Always Learning:
 
 Committed to staying ahead in web development
-Active in online courses and web development conferences
 Feel free to connect or hit me up for collaboration! Let's code some awesomeness together! 😎✨
