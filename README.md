@@ -10,7 +10,7 @@ LinkedIn: www.linkedin.com/in/francescospinola
 🚀 Coding Skills:
 
 Proficient in JavaScript (ES6+), TypeScript, HTML5, CSS3, Python, PHP, Dart
-Familiar with React.js, Angular, Laravel, Flutter and Vue.js
+Familiar with React.js, Angular, Laravel, Flutter
 Database: SQL, MySQL
 Version control: Git
 Design: Tailwind CSS
